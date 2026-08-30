@@ -8,10 +8,10 @@ Open `index.html` directly in a browser, or serve this folder with a lightweight
 
 ## Publish to GitHub Pages
 
-1. Create or use the repository `svgvolandofernando.github.io`.
+1. Create or use the repository `volandofernando.github.io`.
 2. Add the files in this folder, commit, and push to the `main` branch.
 3. In GitHub, open **Settings > Pages**, select **Deploy from a branch**, then select `main` and the repository root.
-4. The site will be available at `https://svgvolandofernando.github.io/` after GitHub finishes deploying it.
+4. The site will be available at `https://gvolandofernando.github.io/` after GitHub finishes deploying it.
 
 ## CV
 
